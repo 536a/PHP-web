@@ -80,7 +80,7 @@ CREATE TABLE `ayar` (
 --
 
 INSERT INTO `ayar` (`ayar_id`, `ayar_logo`, `ayar_title`, `ayar_description`, `ayar_keywords`, `ayar_author`, `ayar_tel`, `ayar_mail`, `ayar_il`, `ayar_ilce`, `ayar_adres`, `ayar_maps`, `ayar_analystic`, `ayar_zopim`, `ayar_instagram`, `ayar_youtube`, `ayar_twitter`, `ayar_google`, `ayar_smtpuser`, `ayar_smtphost`, `ayar_smtppassword`, `ayar_smtpport`, `ayar_bakım`) VALUES
-(0, 'img/26755logo.png', 'PazaraKadar', 'E-ticaret sitesi.', 'alışveriş, pazar, ticaret', 'Alper Tarakçı, Taha Can Gezmiş', '05434004249', 'alpertarakci@outlook.com', 'İstanbul', 'Çekmeköy', 'Taşdelen', 'asdfg', 'asdf', 'asdf', 'www.instagram.com', 'www.youtube.com', 'www.twitter.com', 'www.google.com', 'asd', 'asd', 'asd', 'asd', '1');
+(0, 'img/26755logo.png', 'PazaraKadar', 'E-ticaret sitesi.', 'alışveriş, pazar, ticaret', 'Alper Tarakçı, Taha Can Gezmiş', '05348796145', 'alpertarakci@outlook.com', 'İstanbul', 'Çekmeköy', 'Taşdelen', 'asdfg', 'asdf', 'asdf', 'www.instagram.com', 'www.youtube.com', 'www.twitter.com', 'www.google.com', 'asd', 'asd', 'asd', 'asd', '1');
 
 -- --------------------------------------------------------
 
